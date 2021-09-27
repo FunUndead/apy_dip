@@ -1,0 +1,7 @@
+/.idea/
+/venv/
+/settings.py
+/__pycache__
+/test
+README.md
+/database/__pycache__
